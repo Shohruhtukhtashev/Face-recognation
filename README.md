@@ -1,4 +1,4 @@
-# Face-recognition
+<h1 style="background-color:MediumSeaGreen;"> Face recognition </h1>
 <h4>
   It was a project for a particular group at the University. The task of the program is to recognize the student's face in the database. Then the full name, group,     course and time of the recognized student are recorded in the csv file.
 </h4>
